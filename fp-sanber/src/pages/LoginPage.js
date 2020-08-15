@@ -9,7 +9,7 @@ const LoginPage = () => {
         <>
         <section>
             <div className="card-login">
-                <h1>Login</h1>
+                <h1>Sign In</h1>
                 <form>
                     <label>Username</label>
                     <input />
